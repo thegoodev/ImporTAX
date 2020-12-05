@@ -1,0 +1,529 @@
+{
+"capitulos":[
+  {
+    "sid": "sF6T",
+    "id": "cKiQoi7vUD",
+    "nombre": "SAL; AZUFRE; TIERRAS Y PIEDRAS; YESOS, CALES Y CEMENTOS"
+  },
+  {
+    "sid": "sI6K",
+    "id": "c9MzkGCESA",
+    "nombre": "Sin Capitulo"
+  },
+  {
+    "sid": "sF6T",
+    "id": "cGMIuOgpHX",
+    "nombre": "MINERALES METALÍFEROS, ESCORIAS Y CENIZAS"
+  },
+  {
+    "sid": "sF6T",
+    "id": "cO1J5vo5ac",
+    "nombre": "Sin Capitulo"
+  },
+  {
+    "sid": "sF6T",
+    "id": "cEmKJVL3Z1",
+    "nombre": "COMBUSTIBLES MINERALES, ACEITES MINERALES Y PRODUCTOS DE SU DESTILACIÓN; MATERIAS BITUMINOSAS; CERAS MINERALES"
+  },
+  {
+    "sid": "s9hJ",
+    "id": "c5DBGr3x7A",
+    "nombre": "PRODUCTOS QUÍMICOS ORGÁNICOS"
+  },
+  {
+    "sid": "s9hJ",
+    "id": "cvgTPibHrO",
+    "nombre": "PRODUCTOS QUÍMICOS INORGÁNICOS; COMPUESTOS INORGÁNICOS U ORGÁNICOS DE LOS METALES PRECIOSOS, DE LOS ELEMENTOS RADIACTIVOS, DE METALES DE LAS TIERRAS RARAS O DE ISÓTOPOS"
+  },
+  {
+    "sid": "s9hJ",
+    "id": "cUW86nI5q6",
+    "nombre": "PRODUCTOS FARMACÉUTICOS"
+  },
+  {
+    "sid": "s9hJ",
+    "id": "cjsaY5slOw",
+    "nombre": "ABONOS"
+  },
+  {
+    "sid": "s9hJ",
+    "id": "cPRDEAFb66",
+    "nombre": "EXTRACTOS CURTIENTES O TINTÓREOS; TANINOS Y SUS DERIVADOS; PIGMENTOS Y DEMÁS MATERIAS COLORANTES; PINTURAS Y BARNICES; MÁSTIQUES; TINTAS"
+  },
+  {
+    "sid": "s9hJ",
+    "id": "cghTpKSeXu",
+    "nombre": "ACEITES ESENCIALES Y RESINOIDES; PREPARACIONES DE PERFUMERÍA, DE TOCADOR O DE COSMÉTICA"
+  },
+  {
+    "sid": "s9hJ",
+    "id": "cR0LepQt0y",
+    "nombre": "JABON,AGENTES DE SUPERFICIE ORGANICOS,PREPARACIONES PARA LAVAR,PREPARACIONES LUBRICANTES,CERAS ARTIFICIALES,CERAS PREPARADAS,PRODUCTOS DE LIMPIEZA,VELAS Y ARTICULOS SIMILARES,PASTAS PARA MODELAR, CERA"
+  },
+  {
+    "sid": "s9hJ",
+    "id": "c9iO5Cnehy",
+    "nombre": "MATERIAS ALBUMINOIDEAS; PRODUCTOS A BASE DE ALMIDÓN O DE FÉCULA MODIFICADOS; COLAS; ENZIMAS"
+  },
+  {
+    "sid": "s9hJ",
+    "id": "cOmgZZHhqs",
+    "nombre": "PÓLVORAS Y EXPLOSIVOS; ARTÍCULOS DE PIROTECNIA; FÓSFOROS (CERILLAS); ALEACIONES PIROFÓRICAS; MATERIAS INFLAMABLES"
+  },
+  {
+    "sid": "s9hJ",
+    "id": "cGzWIIRnB0",
+    "nombre": "PRODUCTOS FOTOGRÁFICOS O CINEMATOGRÁFICOS"
+  },
+  {
+    "sid": "s9hJ",
+    "id": "cTAbXGOe8j",
+    "nombre": "PRODUCTOS DIVERSOS DE LAS INDUSTRIAS QUÍMICAS"
+  },
+  {
+    "sid": "s9hJ",
+    "id": "cCNulGRNZH",
+    "nombre": "Sin Capitulo"
+  },
+  {
+    "sid": "sg1A",
+    "id": "cVTYBic0AO",
+    "nombre": "LOS DEMÁS PRODUCTOS DE ORIGEN ANIMAL NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE"
+  },
+  {
+    "sid": "sg1A",
+    "id": "c1JtMR7sZk",
+    "nombre": "ANIMALES VIVOS"
+  },
+  {
+    "sid": "sg1A",
+    "id": "cGbAekGtgG",
+    "nombre": "Sin Capitulo"
+  },
+  {
+    "sid": "sg1A",
+    "id": "cy6tQub5F0",
+    "nombre": "CARNE Y DESPOJOS COMESTIBLES"
+  },
+  {
+    "sid": "sg1A",
+    "id": "cdq9bdqge1",
+    "nombre": "PESCADOS Y CRUSTÁCEOS, MOLUSCOS Y DEMÁS INVERTEBRADOS ACUÁTICOS"
+  },
+  {
+    "sid": "sJdD",
+    "id": "csv8Q7yyv4",
+    "nombre": "PLANTAS VIVAS Y PRODUCTOS DE LA FLORICULTURA"
+  },
+  {
+    "sid": "sJdD",
+    "id": "crb1R1H4E4",
+    "nombre": "HORTALIZAS, PLANTAS, RAÍCES Y TUBÉRCULOS ALIMENTICIOS"
+  },
+  {
+    "sid": "sJdD",
+    "id": "ckgWEGacXv",
+    "nombre": "FRUTAS Y FRUTOS COMESTIBLES; CORTEZAS DE AGRIOS (CÍTRICOS), MELONES O SANDÍAS"
+  },
+  {
+    "sid": "sJdD",
+    "id": "cilgWvZTIG",
+    "nombre": "CAFÉ, TÉ, YERBA MATE Y ESPECIAS"
+  },
+  {
+    "sid": "sJdD",
+    "id": "cDZoDaimH1",
+    "nombre": "CEREALES"
+  },
+  {
+    "sid": "sJdD",
+    "id": "csnVqSZf9m",
+    "nombre": "PRODUCTOS DE LA MOLINERÍA; MALTA; ALMIDÓN Y FÉCULA; INULINA; GLUTEN DE TRIGO"
+  },
+  {
+    "sid": "sJdD",
+    "id": "cYNLQHEhUr",
+    "nombre": "SEMILLAS Y FRUTOS OLEAGINOSOS; SEMILLAS Y FRUTOS DIVERSOS; PLANTAS INDUSTRIALES O MEDICINALES; PAJA Y FORRAJE"
+  },
+  {
+    "sid": "sJdD",
+    "id": "c7x9dujWAo",
+    "nombre": "GOMAS, RESINAS Y DEMÁS JUGOS Y EXTRACTOS VEGETALES"
+  },
+  {
+    "sid": "sJdD",
+    "id": "cXZGUQZ5fD",
+    "nombre": "MATERIAS TRENZABLES Y DEMÁS PRODUCTOS DE ORIGEN VEGETAL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE"
+  },
+  {
+    "sid": "s0bU",
+    "id": "cHJs4Nqry1",
+    "nombre": "GRASAS Y ACEITES ANIMALES O VEGETALES; PRODUCTOS DE SU DESDOBLAMIENTO; GRASAS ALIMENTICIAS ELABORADAS; CERAS DE ORIGEN ANIMAL O VEGETAL"
+  },
+  {
+    "sid": "ssW4",
+    "id": "cH3evMDcvY",
+    "nombre": "PREPARACIONES DE CARNE, PESCADO O DE CRUSTÁCEOS, MOLUSCOS O DEMÁS INVERTEBRADOS ACUÁTICOS"
+  },
+  {
+    "sid": "ssW4",
+    "id": "c9arwI0epI",
+    "nombre": "AZÚCARES Y ARTÍCULOS DE CONFITERÍA"
+  },
+  {
+    "sid": "ssW4",
+    "id": "cCpIg3WMnk",
+    "nombre": "CACAO Y SUS PREPARACIONES"
+  },
+  {
+    "sid": "ssW4",
+    "id": "cr4vyXenJ7",
+    "nombre": "Sin Capitulo"
+  },
+  {
+    "sid": "ssW4",
+    "id": "cgnoDPiYOM",
+    "nombre": "PREPARACIONES A BASE DE CEREALES, HARINA, ALMIDÓN, FÉCULA O LECHE; PRODUCTOS DE PASTELERÍA"
+  },
+  {
+    "sid": "ssW4",
+    "id": "csh4KLEn4k",
+    "nombre": "PREPARACIONES DE HORTALIZAS, FRUTAS U OTROS FRUTOS O DEMÁS PARTES DE PLANTAS"
+  },
+  {
+    "sid": "ssW4",
+    "id": "crREkVgJHG",
+    "nombre": "PREPARACIONES ALIMENTICIAS DIVERSAS"
+  },
+  {
+    "sid": "ssW4",
+    "id": "cNMqlJXjmx",
+    "nombre": "BEBIDAS, LÍQUIDOS ALCOHÓLICOS Y VINAGRE"
+  },
+  {
+    "sid": "ssW4",
+    "id": "cCUHV4oSTa",
+    "nombre": "RESIDUOS Y DESPERDICIOS DE LAS INDUSTRIAS ALIMENTARIAS; ALIMENTOS PREPARADOS PARA ANIMALES"
+  },
+  {
+    "sid": "ssW4",
+    "id": "cCeq65WADo",
+    "nombre": "TABACO Y SUCEDÁNEOS DEL TABACO, ELABORADOS"
+  },
+  {
+    "sid": "selQ",
+    "id": "c5yEuwHS9k",
+    "nombre": "PRENDAS Y COMPLEMENTOS (ACCESORIOS), DE VESTIR, EXCEPTO LOS DE PUNTO"
+  },
+  {
+    "sid": "selQ",
+    "id": "cDQ0oBvsxw",
+    "nombre": "LANA Y PELO FINO U ORDINARIO; HILADOS Y TEJIDOS DE CRIN"
+  },
+  {
+    "sid": "selQ",
+    "id": "c3Tk9tyiD5",
+    "nombre": "ALGODÓN"
+  },
+  {
+    "sid": "selQ",
+    "id": "cMvyx3BLww",
+    "nombre": "LOS DEMÁS ARTÍCULOS TEXTILES CONFECCIONADOS; JUEGOS; PRENDERÍA Y TRAPOS"
+  },
+  {
+    "sid": "selQ",
+    "id": "cT1wlmTb5M",
+    "nombre": "Sin Capitulo"
+  },
+  {
+    "sid": "selQ",
+    "id": "ckoG6cU0oO",
+    "nombre": "TEJIDOS DE PUNTO"
+  },
+  {
+    "sid": "selQ",
+    "id": "cgRGapMhs4",
+    "nombre": "GUATA, FIELTRO Y TELA SIN TEJER; HILADOS ESPECIALES; CORDELES, CUERDAS Y CORDAJES; ARTÍCULOS DE CORDELERÍA"
+  },
+  {
+    "sid": "selQ",
+    "id": "cDUmKEE7EB",
+    "nombre": "LAS DEMÁS FIBRAS TEXTILES VEGETALES; HILADOS DE PAPEL Y TEJIDOS DE HILADOS DE PAPEL"
+  },
+  {
+    "sid": "selQ",
+    "id": "cQP8D0Tu6Q",
+    "nombre": "FILAMENTOS SINTÉTICOS O ARTIFICIALES"
+  },
+  {
+    "sid": "selQ",
+    "id": "cubr7WVc84",
+    "nombre": "FIBRAS SINTÉTICAS O ARTIFICIALES DISCONTINUAS"
+  },
+  {
+    "sid": "selQ",
+    "id": "cDUpqPn6x5",
+    "nombre": "ALFOMBRAS Y DEMÁS REVESTIMIENTOS PARA EL SUELO, DE MATERIA TEXTIL"
+  },
+  {
+    "sid": "selQ",
+    "id": "cX7YMO4Uvv",
+    "nombre": "TEJIDOS ESPECIALES; SUPERFICIES TEXTILES CON MECHÓN INSERTADO; ENCAJES; TAPICERÍA; PASAMANERÍA; BORDADOS"
+  },
+  {
+    "sid": "selQ",
+    "id": "c5UDikXQGb",
+    "nombre": "TELAS IMPREGNADAS, RECUBIERTAS, REVESTIDAS O ESTRATIFICADAS; ARTÍCULOS TÉCNICOS DE MATERIA TEXTIL"
+  },
+  {
+    "sid": "selQ",
+    "id": "caJy40Ybev",
+    "nombre": "PRENDAS Y COMPLEMENTOS (ACCESORIOS), DE VESTIR, DE PUNTO"
+  },
+  {
+    "sid": "selQ",
+    "id": "cgDf0Ub6ow",
+    "nombre": "SEDA"
+  },
+  {
+    "sid": "s1a5",
+    "id": "cbPQeGItVs",
+    "nombre": "NÍQUEL Y SUS MANUFACTURAS"
+  },
+  {
+    "sid": "s1a5",
+    "id": "cTZuIVoG4B",
+    "nombre": "ALUMINIO Y SUS MANUFACTURAS"
+  },
+  {
+    "sid": "s1a5",
+    "id": "c0SK5VePk4",
+    "nombre": "PLOMO Y SUS MANUFACTURAS"
+  },
+  {
+    "sid": "s1a5",
+    "id": "ckPXX2UgBa",
+    "nombre": "CINC Y SUS MANUFACTURAS"
+  },
+  {
+    "sid": "s1a5",
+    "id": "cA6onomtYu",
+    "nombre": "ESTAÑO Y SUS MANUFACTURAS"
+  },
+  {
+    "sid": "s1a5",
+    "id": "c6nXoSEI4T",
+    "nombre": "LOS DEMÁS METALES COMUNES; CERMETS; MANUFACTURAS DE ESTAS MATERIAS"
+  },
+  {
+    "sid": "s1a5",
+    "id": "cO9Ol3RfX0",
+    "nombre": "HERRAMIENTAS Y ÚTILES, ARTÍCULOS DE CUCHILLERÍA Y CUBIERTOS DE MESA, DE METAL COMÚN; PARTES DE ESTOS ARTÍCULOS, DE METAL COMÚN"
+  },
+  {
+    "sid": "s1a5",
+    "id": "cDUHHJqwcS",
+    "nombre": "MANUFACTURAS DIVERSAS DE METAL COMÚN"
+  },
+  {
+    "sid": "s1a5",
+    "id": "c1k3A2rRLS",
+    "nombre": "FUNDICIÓN, HIERRO Y ACERO"
+  },
+  {
+    "sid": "s1a5",
+    "id": "cX6OpT6kyB",
+    "nombre": "MANUFACTURAS DE FUNDICIÓN, HIERRO O ACERO"
+  },
+  {
+    "sid": "s1a5",
+    "id": "c5VBDA6wSS",
+    "nombre": "Sin Capitulo"
+  },
+  {
+    "sid": "s1a5",
+    "id": "ch1pEm3o3M",
+    "nombre": "COBRE Y SUS MANUFACTURAS"
+  },
+  {
+    "sid": "sLtS",
+    "id": "cjnMQEkT8N",
+    "nombre": "PLASTICO Y SUS MANUFACTURAS"
+  },
+  {
+    "sid": "sLtS",
+    "id": "cI2c6gXuBW",
+    "nombre": "CAUCHO Y SUS MANUFACTURAS"
+  },
+  {
+    "sid": "s93l",
+    "id": "c7Yc9yxotE",
+    "nombre": "CALZADO, POLAINAS Y ARTÍCULOS ANÁLOGOS; PARTES DE ESTOS ARTÍCULOS"
+  },
+  {
+    "sid": "s93l",
+    "id": "czWCuIqpO6",
+    "nombre": "SOMBREROS, DEMÁS TOCADOS Y SUS PARTES"
+  },
+  {
+    "sid": "s93l",
+    "id": "cc0z5gwy6V",
+    "nombre": "PARAGUAS, SOMBRILLAS, QUITASOLES, BASTONES, BASTONES ASIENTO, LÁTIGOS, FUSTAS, Y SUS PARTES"
+  },
+  {
+    "sid": "s93l",
+    "id": "ckbN6pD7LG",
+    "nombre": "PLUMAS Y PLUMÓN PREPARADOS Y ARTÍCULOS DE PLUMAS O PLUMÓN; FLORES ARTIFICIALES; MANUFACTURAS DE CABELLO"
+  },
+  {
+    "sid": "s4pR",
+    "id": "cuLvDWbzQT",
+    "nombre": "MANUFACTURAS DE PIEDRA, YESO FRAGUABLE, CEMENTO, AMIANTO (ASBESTO), MICA O MATERIAS ANÁLOGAS"
+  },
+  {
+    "sid": "s4pR",
+    "id": "c9xBxhldfH",
+    "nombre": "PRODUCTOS CERÁMICOS"
+  },
+  {
+    "sid": "s4pR",
+    "id": "cq74hTX4LD",
+    "nombre": "VIDRIO Y SUS MANUFACTURAS"
+  },
+  {
+    "sid": "siBi",
+    "id": "ch9ZYtkEZY",
+    "nombre": "PIELES (EXCEPTO LA PELETERÍA) Y CUEROS"
+  },
+  {
+    "sid": "siBi",
+    "id": "c4DMNaMFOM",
+    "nombre": "Sin Capitulo"
+  },
+  {
+    "sid": "siBi",
+    "id": "cN3LvRnX7D",
+    "nombre": "MANUFACTURAS DE CUERO; ARTÍCULOS DE TALABARTERÍA O GUARNICIONERÍA; ARTÍCULOS DE VIAJE, BOLSOS DE MANO (CARTERAS) Y CONTINENTES SIMILARES; MANUFACTURAS DE TRIPA"
+  },
+  {
+    "sid": "siBi",
+    "id": "ce5bttJ6bC",
+    "nombre": "PELETERÍA Y CONFECCIONES DE PELETERÍA; PELETERÍA FACTICIA O ARTIFICIAL"
+  },
+  {
+    "sid": "sjUl",
+    "id": "cRdzZsq56k",
+    "nombre": "PERLAS FINAS (NATURALES) O CULTIVADAS, PIEDRAS PRECIOSAS O SEMIPRECIOSAS, METALES PRECIOSOS, CHAPADOS DE METAL PRECIOSO (PLAQUÉ) Y MANUFACTURAS DE ESTAS MATERIAS"
+  },
+  {
+    "sid": "sggC",
+    "id": "c8n9ZRJg3s",
+    "nombre": "MADERA, CARBÓN VEGETAL Y MANUFACTURAS DE MADERA"
+  },
+  {
+    "sid": "sggC",
+    "id": "c5IjBa0JpO",
+    "nombre": "CORCHO Y SUS MANUFACTURAS"
+  },
+  {
+    "sid": "sggC",
+    "id": "cHAcpyphmt",
+    "nombre": "MANUFACTURAS DE ESPARTERÍA O CESTERÍA"
+  },
+  {
+    "sid": "syKh",
+    "id": "c5yXGpjSFh",
+    "nombre": "MANUFACTURAS DIVERSAS"
+  },
+  {
+    "sid": "suG3",
+    "id": "ccXcqkUwnq",
+    "nombre": "PASTA DE MADERA O DE LAS DEMÁS MATERIAS FIBROSAS CELULÓSICAS; PAPEL O CARTÓN PARA RECICLAR (DESPERDICIOS Y DESECHOS)"
+  },
+  {
+    "sid": "suG3",
+    "id": "cSkqJwEs9C",
+    "nombre": "PAPEL Y CARTÓN; MANUFACTURAS DE PASTA DE CELULOSA, DE PAPEL O CARTÓN"
+  },
+  {
+    "sid": "suG3",
+    "id": "cUzPlhjwXB",
+    "nombre": "PRODUCTOS EDITORIALES, DE LA PRENSA Y DE LAS DEMÁS INDUSTRIAS GRÁFICAS; TEXTOS MANUSCRITOS O MECANOGRAFIADOS Y PLANOS"
+  },
+  {
+    "sid": "sbc8",
+    "id": "c7ElzLhgju",
+    "nombre": "REACTORES NUCLEARES, CALDERAS, MÁQUINAS, APARATOS Y ARTEFACTOS MECÁNICOS; PARTES DE ESTAS MÁQUINAS O APARATOS"
+  },
+  {
+    "sid": "sbc8",
+    "id": "cGDh4bebpB",
+    "nombre": "MÁQUINAS, APARATOS Y MATERIAL ELÉCTRICO, Y SUS PARTES; APARATOS DE GRABACIÓN O REPRODUCCIÓN DE SONIDO, APARATOS DE GRABACIÓN O REPRODUCCIÓN DE IMAGEN"
+  },
+  {
+    "sid": "sbc8",
+    "id": "ccSEsG1gfo",
+    "nombre": "Sin Capitulo"
+  },
+  {
+    "sid": "sFvM",
+    "id": "cckY85zVFk",
+    "nombre": "VEHÍCULOS AUTOMÓVILES, TRACTORES, VELOCÍPEDOS Y DEMÁS VEHÍCULOS TERRESTRES; SUS PARTES Y ACCESORIOS"
+  },
+  {
+    "sid": "sFvM",
+    "id": "cdMGo6Rqny",
+    "nombre": "Sin Capitulo"
+  },
+  {
+    "sid": "sFvM",
+    "id": "cnud4Bt5hz",
+    "nombre": "AERONAVES, VEHÍCULOS ESPACIALES Y SUS PARTES"
+  },
+  {
+    "sid": "sFvM",
+    "id": "cmQBO7ntbQ",
+    "nombre": "BARCOS Y DEMÁS ARTEFACTOS FLOTANTES"
+  },
+  {
+    "sid": "sFvM",
+    "id": "c5kwgRiSdZ",
+    "nombre": "VEHÍCULOS Y MATERIAL PARA VÍAS FÉRREAS O SIMILARES, Y SUS PARTES; APARATOS MECÁNICOS (INCLUSO ELECTROMECÁNICOS) DE SEÑALIZACIÓN PARA VÍAS DE COMUNICACIÓN"
+  },
+  {
+    "sid": "sJG3",
+    "id": "cobGwvQiwE",
+    "nombre": "INSTRUMENTOS Y APARATOS DE ÓPTICA, FOTOGRAFÍA O CINEMATOGRAFÍA, DE MEDIDA, CONTROL O PRECISIÓN; INSTRUMENTOS Y APARATOS MEDICOQUIRÚRGICOS; PARTES Y ACCESORIOS"
+  },
+  {
+    "sid": "sJG3",
+    "id": "cyuPpCcC3J",
+    "nombre": "APARATOS DE RELOJERÍA Y SUS PARTES"
+  },
+  {
+    "sid": "sJG3",
+    "id": "c1a4As9doA",
+    "nombre": "INSTRUMENTOS MUSICALES; SUS PARTES Y ACCESORIOS"
+  },
+  {
+    "sid": "sBZe",
+    "id": "cbcHfT8hQR",
+    "nombre": "ARMAS, MUNICIONES, Y SUS PARTES Y ACCESORIOS"
+  },
+  {
+    "sid": "syKh",
+    "id": "cNbj7hjmfa",
+    "nombre": "MUEBLES; MOBILIARIO MEDICOQUIRÚRGICO; ARTÍCULOS DE CAMA Y SIMILARES; APARATOS DE ALUMBRADO NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE; ANUNCIOS, LETREROS Y PLACAS"
+  },
+  {
+    "sid": "syKh",
+    "id": "c50elDBNQJ",
+    "nombre": "JUGUETES, JUEGOS Y ARTÍCULOS PARA RECREO O DEPORTE; SUS PARTES Y ACCESORIOS"
+  },
+  {
+    "sid": "sXZu",
+    "id": "cvEDreGXeG",
+    "nombre": "OBJETOS DE ARTE O COLECCIÓN Y ANTIGÜEDADES"
+  }
+],
+}
